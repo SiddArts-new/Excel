@@ -5,7 +5,7 @@
       "type": "chrome",
       "request": "launch",
       "name": "Launch GridPulse Taskpane (Browser)",
-      "url": "https://vermillion-llama-d099c1.netlify.app//taskpane.html",
+      "url": "https://vermillion-llama-d099c1.netlify.app",
       "webRoot": "${workspaceFolder}"
     }
   ]
