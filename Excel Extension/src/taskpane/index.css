@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Prevent horizontal overflow inside compact 300px-420px Excel taskpane */
+body {
+  overflow-x: hidden;
+}
